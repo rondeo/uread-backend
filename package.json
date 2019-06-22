@@ -4,7 +4,7 @@
   "description": "URead API",
   "main": "index.js",
   "repository": "https://github.com/stephanogiuseppe/uread-backend.git",
-  "author": "Stéphano Giuseppe <stephano.grp@gmail.com>",
+  "author": "StC)phano Giuseppe <stephano.grp@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon --watch 'src/**/*.ts' --ignore 'src/**/*.spec.ts' --exec ts-node src/index.ts"
